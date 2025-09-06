@@ -21,6 +21,24 @@ A detailed report named `CustomerSegmentation_Report.docx` is included in this r
 - **K-Means clustering, cluster profiling, and insights**
 - **Visualizations and interpretation of results**
 
+## Tools & Libraries
+
+This project was implemented in **Python** using:
+
+- **Pandas** for data manipulation and preprocessing  
+- **NumPy** for numerical operations  
+- **Scikit-learn** for feature scaling and K-Means clustering  
+- **Matplotlib** and **Seaborn** for visualizations  
+
+## Covered Topics
+
+- Customer segmentation using **unsupervised learning (K-Means clustering)**  
+- **Exploratory Data Analysis (EDA)** with histograms, scatterplots, and bar plots  
+- **Feature scaling** to standardize income and spending score for clustering  
+- Determination of the **optimal number of clusters** using Elbow and Silhouette methods  
+- **Cluster profiling**, including demographic analysis and **average spending per cluster**  
+- Interpretation of results for **marketing and business insights**
+
 ## Tech Stack
 
 - **Analysis & Modeling:** Python (Pandas, NumPy, Scikit-learn)  
